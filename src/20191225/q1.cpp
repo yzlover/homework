@@ -21,3 +21,4 @@ int main()
 
     cout << "最大的数为: " << max << endl;
 }
+
